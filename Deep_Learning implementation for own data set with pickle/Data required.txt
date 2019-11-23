@@ -1,0 +1,8 @@
+classification image data:
+	data :
+	------>	cats
+	------>	dogs
+	
+
+data location : datadb     (or)
+	https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
