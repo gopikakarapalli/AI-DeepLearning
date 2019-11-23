@@ -1,0 +1,8 @@
+classification image data:
+	data :
+	------>	cats
+	------>	dogs
+	------> horses
+	------> Humans
+
+data location : datadb
